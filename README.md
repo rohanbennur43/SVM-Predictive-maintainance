@@ -28,6 +28,7 @@ industrial-maintenance-predictor/
 	|-- README.md
 	|-- requirements.txt
 
+```
 ## Usage
 python predictive_maintenance_model.py
 
