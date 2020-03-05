@@ -22,10 +22,11 @@ In this project, we tackle the challenge of predicting maintenance needs for ind
 
 ## Directory Structure
 industrial-maintenance-predictor/
-|-- predictive_maintenance_model.py
-|-- your_dataset.csv
-|-- README.md
-|-- requirements.txt
+```bash
+	|-- predictive_maintenance_model.py
+	|-- your_dataset.csv
+	|-- README.md
+	|-- requirements.txt
 
 ## Usage
 python predictive_maintenance_model.py
