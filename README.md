@@ -20,13 +20,14 @@ In this project, we tackle the challenge of predicting maintenance needs for ind
    cd industrial-maintenance-predictor
    pip install -r requirements.txt
 
-##Directory Structure
+## Directory Structure
 industrial-maintenance-predictor/
 |-- predictive_maintenance_model.py
 |-- your_dataset.csv
 |-- README.md
 |-- requirements.txt
-##Usage
+
+## Usage
 python predictive_maintenance_model.py
 
 
